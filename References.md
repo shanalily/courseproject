@@ -1,3 +1,4 @@
 Projects or websites that have interested me so far:
 
-[atom](https://github.com/atom/atom)
+[Atom](https://github.com/atom/atom)
+[Electron](https://github.com/electron/electron/tree/master/script)
